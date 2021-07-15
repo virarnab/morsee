@@ -30,9 +30,13 @@ def add(request):
         morse=''.join(code)
         for m in morse:
             if m=='.':
-                playsound('C:\\Users\\ARNAB\\Desktop\\morse\\morsecode\\myapp\\dit.wav')
+                music = pyglet.resource.media('morsee\\myapp\\dit.wav')
+                music.play()
+                pyglet.app.run()
             elif m=='-':
-                playsound('C:\\Users\\ARNAB\\Desktop\\morse\\morsecode\\myapp\\dah.wav')
+                music = pyglet.resource.media('morsee\\myapp\\dah.wav')
+                music.play()
+                pyglet.app.run()
             else:
                 time.sleep(0.5)
         return render(request,'res.html',{"result":morse})
