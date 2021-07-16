@@ -15,22 +15,22 @@ Simply clone the repository and run the following command in the morsee folder:
 
 pyttsx and playsound need to be installed for the site to work along with django. 
 <h1>Screenshots of the Portal</h1>
-<img src='https://github.com/virarnab/morsee/resources/mor1.png'><br>
+<img src='https://github.com/virarnab/morsee/blob/main/resources/mor1.png'><br>
 <table>
   <tr>
     <td>Text to Morse</td>
      <td>Result</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/virarnab/morsee/resources/mor2.png" </td>
-    <td><img src="https://github.com/virarnab/morsee/resources/mor3.png" </td>
+    <td><img src="https://github.com/virarnab/morsee/blob/main/resources/mor2.png" </td>
+    <td><img src="https://github.com/virarnab/morsee/blob/main/resources/mor3.png" </td>
   </tr>
   <tr>
     <td>Morse to Text</td>
      <td>Result</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/virarnab/morsee/resources/mor6.png" </td>
-    <td><img src="https://github.com/virarnab/morsee/resources/mor5.png" </td>
+    <td><img src="https://github.com/virarnab/morsee/blob/main/resources/mor6.png" </td>
+    <td><img src="https://github.com/virarnab/morsee/blob/main/resources/mor5.png" </td>
   </tr>
  </table>
