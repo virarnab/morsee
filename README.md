@@ -25,4 +25,12 @@ pyttsx and playsound need to be installed for the site to work along with django
     <td><img src="mor2.png" </td>
     <td><img src="mor3.png" </td>
   </tr>
+  <tr>
+    <td>Morse to Text</td>
+     <td>Result</td>
+  </tr>
+  <tr>
+    <td><img src="mor4.png" </td>
+    <td><img src="mor5.png" </td>
+  </tr>
  </table>
