@@ -16,11 +16,13 @@ Simply clone the repository and run the following command in the morsee folder:
 pyttsx and playsound need to be installed for the site to work along with django. 
 <h1>Screenshots of the Portal</h1>
 <img src='mor1.png'><br>
-<p float="left">
-  <img src="mor2.png" width="100" />
-  <img src="mor3.png" width="100" /> 
-</p>
-<p float="left">
-  <img src="mor4.png" width="100" />
-  <img src="mor5.png" width="100" /> 
-</p>
+<table>
+  <tr>
+    <td>Text to Morse</td>
+     <td>Result</td>
+  </tr>
+  <tr>
+    <td><img src="mor2.png" width=270 height=480></td>
+    <td><img src="mor3.png" width=270 height=480></td>
+  </tr>
+ </table>
