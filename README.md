@@ -10,13 +10,7 @@ The basic idea is that using some basic codes, we can find the Morse code of a g
 <br>
 <h1>Build Instructions</h1>
 Simply clone the repository and run the following command in the morsee folder:
-```html
-<h2>Example of code</h2>
-
-<pre>
-<code>
-python manage.py runserver
-</code>
-</pre>
-```
+<br>
+```python manage.py runserver```
+<br>
 pyttsx and playsound need to be installed for the site to work along with django. 
