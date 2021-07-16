@@ -30,7 +30,7 @@ pyttsx and playsound need to be installed for the site to work along with django
      <td>Result</td>
   </tr>
   <tr>
-    <td><img src="mor4.png" </td>
+    <td><img src="mor6.png" </td>
     <td><img src="mor5.png" </td>
   </tr>
  </table>
