@@ -16,3 +16,7 @@ python manage.py runserver
 ```
 
 pyttsx and playsound need to be installed for the site to work along with django. 
+<h1>Screenshots of the Portal</h1>
+<img src='mor1.png'>
+<br>
+<img src='mor2.png'>
