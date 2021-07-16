@@ -1,3 +1,14 @@
+<style>
+    .card {
+        width: 130px;
+        height: 195px;
+        background: url("mor2.png") no-repeat;
+        display: inline-block;
+    }
+    .card:hover {
+        background: url("mor3.png") no-repeat;
+    }
+</style>
 <h1>Morse Code Encoder/Decoder</h1>
 
 This is a project that uses playsound in Python to provide the user with an audio of the Morse Code. Also, pyttsx is used to speak out the text encoded in the Morse code or the decoded text after running the program. 
@@ -16,5 +27,5 @@ Simply clone the repository and run the following command in the morsee folder:
 pyttsx and playsound need to be installed for the site to work along with django. 
 <h1>Screenshots of the Portal</h1>
 <img src='mor1.png'><br>
-<img src='mor2.png' style="width:30%"><img src='mor3.png' style="width:30%"><br>
-<img src='mor4.png' style="width:30%"><img src='mor5.png' style="width:30%">
+
+<div class="card"></div>
