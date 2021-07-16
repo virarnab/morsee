@@ -12,7 +12,7 @@ The basic idea is that using some basic codes, we can find the Morse code of a g
 Simply clone the repository and run the following command in the morsee folder:
 <pre>
     <code>
-       python manage.py runserver
+       ```python manage.py runserver```
     </code>
 </pre>
 pyttsx and playsound need to be installed for the site to work along with django. 
